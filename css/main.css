@@ -30,3 +30,17 @@ nav button{
     border-style: solid;
     /* border: 2px solid rgb(226, 77, 159); */
 }
+#hero-section{
+    background-image: url(../assets/images/cafe-background.jpg);
+    height: 100vh;
+    width: 100vw;
+    background-size: center;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    background-position: center;
+
+}
+#headertext{
+ font-size: 60px;
+}
